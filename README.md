@@ -4,7 +4,9 @@
 
 ¿Qué es STEAM? ¿Qué es un robot maqueen?
 
-El término STEAM surge de las siglas en inglés de:  Science, Technology, Engineering, Arts & Mathematics.
+El término STEAM surge de las siglas en inglés de:  Science, Technology, Engineering, Arts & Mathematics. 
+
+![image](https://user-images.githubusercontent.com/114906861/207549887-94778db5-a944-472f-a246-a8ba89084a9c.jpeg)
 
 ## `Módulo1: Descripción y montaje`
 
