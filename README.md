@@ -7,6 +7,8 @@
 El término STEAM surge de las siglas en inglés de:  Science, Technology, Engineering, Arts & Mathematics.
 
 1.- Módulo1: Descripción y montaje 
+parece walle se monta primero las ruedas
+luego se añade la placa la bateria y por ultimo el sensor despues se comprueba que funciona
 
  Aqui os dejamos un video de como se monta el Maqueen 
  
@@ -22,6 +24,8 @@ El término STEAM surge de las siglas en inglés de:  Science, Technology, Engin
 
 
 ## `Referencias` 
+
+[wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Portada)
 
 ## `Autores`
 
