@@ -14,7 +14,7 @@ Aqui os dejamos un video de como se monta el Maqueen.
  
 - [Youtube](https://www.youtube.com/watch?v=8MJt_sTFbYA)
 
-## `Módulo2: Programación básica` 
+## `Módulo 2: Programación básica` 
 
 ## `Modulo 3: Programación básica`
 
