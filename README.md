@@ -14,7 +14,7 @@ El término STEAM surge de las siglas en inglés de:  Science, Technology, Engin
 
 4.- Modulo 4: Ampliación 
 
-5.- Proyecto: proyecto.md
+5.- Proyecto
 
 
 ## `Referencias` 
