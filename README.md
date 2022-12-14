@@ -7,6 +7,8 @@
 El término STEAM surge de las siglas en inglés de:  Science, Technology, Engineering, Arts & Mathematics.
 
 1.- Módulo1: Descripción y montaje 
+parece walle se monta primero las ruedas
+luego se añade la placa la bateria y por ultimo el sensor despues se comprueba que funciona
 
 2.-Módulo2: Programación básica  1 
 
