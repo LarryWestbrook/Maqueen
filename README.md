@@ -6,7 +6,7 @@
 
 El término STEAM surge de las siglas en inglés de:  Science, Technology, Engineering, Arts & Mathematics.
 
-1.- Módulo1: Descripción y montaje
+## `Módulo1: Descripción y montaje`
 
 Parece walle se montan primero las ruedas. Luego se añade la placa, la bateria y por ultimo el sensor despues se comprueba que funciona
 
@@ -14,13 +14,13 @@ Aqui os dejamos un video de como se monta el Maqueen.
  
 - [Youtube](https://www.youtube.com/watch?v=8MJt_sTFbYA)
 
-2.-Módulo2: Programación básica  1 
+## `Módulo2: Programación básica` 
 
-3.- Modulo 3: Programación básica 2 
+## `Modulo 3: Programación básica`
 
-4.- Modulo 4: Ampliación 
+## `Modulo 4: Ampliación` 
 
-5.- Proyecto
+## `Proyecto`
 
 
 ## `Referencias` 
