@@ -18,6 +18,8 @@ Aqui os dejamos un video de como se monta el Maqueen.
 
 ## `Módulo 2: Programación básica`
 
+La programacion la hacemos a traves de Makecode 
+- [Archivo]
 
 ## `Modulo 3: Programación básica`
 
