@@ -20,10 +20,11 @@ Aqui os dejamos un video de como se monta el Maqueen.
 
 La programacion la hacemos a traves de Makecode y ella hemos implementado un tipo de musica y movimiento de las ruedas.
 
-- [Ejemplo 1](ejemplo1/ejemplo1.md)
+- [Video 1: Botones, Musica, led integrados](ejemplo1/ejemplo1.md)
 
+- [Video 2: Los motores y leds](extension/extension.md)
 
-## `Modulo 3: Programación básica`
+## `Modulo 3: Programación básica 2`
 
 ## `Modulo 4: Ampliación` 
 
