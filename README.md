@@ -16,9 +16,13 @@ Aqui os dejamos un video de como se monta el Maqueen.
  
 - [Youtube](https://www.youtube.com/watch?v=8MJt_sTFbYA)
 
-## `Módulo 2: Programación básica`
+## `Módulo 2: Programación básica 1`
 
 La programacion la hacemos a traves de Makecode y ella hemos implementado un tipo de musica y movimiento de las ruedas.
+
+- [Ejemplo 1]
+
+- [Youtube](https://www.youtube.com/watch?v=oUtcqfuMcIA)
 
 - [Archivo 1](https://github.com/LarryWestbrook/Maqueen/blob/main/microbit-macqueen%20(2).hex)
 - [Archivo 2](https://github.com/LarryWestbrook/Maqueen/blob/main/microbit-e%20(6).hex)
