@@ -25,6 +25,9 @@ La programacion la hacemos a traves de Makecode y ella hemos implementado un tip
 - [Video 2: Los motores y leds](extension/extension.md)
 
 ## `Modulo 3: Programación básica 2`
+ 
+- [Video 1: Variables y bucles de control](variables/variables.md)
+
 
 ## `Modulo 4: Ampliación` 
 
