@@ -1,5 +1,5 @@
 
-- Almacenar variables, datos y sensores (temperatura y distancia).
+## Almacenar variables, datos y sensores (temperatura y distancia).
 
 Kylian va almacenar una variable de datos en los botones A y B, y nos va a mostrar como emplea dicha variable dependiendo si se pulsa el boton A o B.
 
