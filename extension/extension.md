@@ -1,11 +1,5 @@
 ## Extensión: Neopixel
 
-En este
-
 - Ejemplo 1: Robot gira hacia la derecha y enciende el led derecho
-
-
-- Ejemplo 2: Generar colores: RGB
-
-
-- Ejemplo 3: Motores y leds
+  
+  En esta parte del proyecto vamos a ver como Kylian (nuestro maqueen) es capaz de girar a la derecha y encender el led derecho. 
