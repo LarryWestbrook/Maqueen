@@ -6,7 +6,7 @@
 
 ![Captura1 - copia](https://user-images.githubusercontent.com/114906861/208375902-086ebe5b-fc21-4872-adc4-87d9c1b4df62.PNG)
 
-- [Youtube](https://youtube.com/shorts/zHZa2CNgq8Y)
+ [Youtube](https://youtube.com/shorts/zHZa2CNgq8Y)
 
 
 - Ejemplo 2: Carrera de robots
