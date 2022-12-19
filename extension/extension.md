@@ -13,8 +13,7 @@
 
   Aqui vamos a ver como kylian se enfrenta otros maqueens en una carrera, vamos a ver quien gana.
 
-![image](https://user-images.githubusercontent.com/114906861/208379674-b567d86c-ead7-4ea7-b65e-519388c5f6ee.png)
-
+![image](https://user-images.githubusercontent.com/114906861/208384517-094739fa-792b-46fb-8530-facde2ea6679.png)
 [Youtube](https://youtube.com/shorts/-mch3aRfjsI)
 
 
