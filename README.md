@@ -5,6 +5,7 @@
 ¿Qué es STEAM? ¿Qué es un robot maqueen?
 
 El término STEAM surge de las siglas en inglés de:  Science, Technology, Engineering, Arts & Mathematics. 
+
 El Maqueen es un robot de programación gráfica diseñado específicamente para fomentar el interés de los niños en la ciencia y el pensamiento lógico a través de la educación STEM. Es muy fácil de usar y se controla con una placa Micro:bit, que se conecta al robot de manera plug and play.
 
 ![image](https://user-images.githubusercontent.com/114906861/207549887-94778db5-a944-472f-a246-a8ba89084a9c.jpeg)
