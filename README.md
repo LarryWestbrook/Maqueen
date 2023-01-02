@@ -10,7 +10,7 @@ El Maqueen es un robot de programación gráfica diseñado específicamente para
 
 ![image](https://user-images.githubusercontent.com/114906861/207549887-94778db5-a944-472f-a246-a8ba89084a9c.jpeg)
 
-## `Módulo1: Descripción y montaje`
+## `Módulo 1: Descripción y montaje`
 
 Parece walle se montan primero las ruedas. Luego se añade la placa, la bateria y por ultimo el sensor despues se comprueba que funciona
 
