@@ -27,4 +27,4 @@ Aqui mostraremos que con un mando podemos enviarle señales a Kylian y es capaz 
 
 [Archivo](https://github.com/LarryWestbrook/Maqueen/blob/main/MANDOCONTROLLER.hex)
 
-[Youtube](
+[Youtube](https://youtube.com/shorts/ZpzIIHeNwaU)
