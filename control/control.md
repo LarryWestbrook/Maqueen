@@ -10,13 +10,13 @@ Aqui mostraremos como a traves de otra placa Microbit podemos enviar señales a 
 
 ![image2](https://user-images.githubusercontent.com/114906861/211264589-ffe2ea22-2c43-4806-ae37-17b1bf5c301c.PNG)
 
-- Archivos 
+- Archivos y Enlace de video.
 
-    [Archivo 1](https://github.com/LarryWestbrook/Maqueen/blob/main/microbit-CONTROL2.hex)
+  [Archivo 1](https://github.com/LarryWestbrook/Maqueen/blob/main/microbit-CONTROL2.hex)
 
-    [Archivo 2](https://github.com/LarryWestbrook/Maqueen/blob/main/microbit-CONTROL-CON-OTRO-MICROBIT.hex)
+  [Archivo 2](https://github.com/LarryWestbrook/Maqueen/blob/main/microbit-CONTROL-CON-OTRO-MICROBIT.hex)
     
-    [Youtube](https://youtube.com/shorts/O6poZO4w5fs)
+  [Youtube](https://youtube.com/shorts/O6poZO4w5fs)
 
 ## Ejemplo 2: Control del robot a través de un mando. 
 
