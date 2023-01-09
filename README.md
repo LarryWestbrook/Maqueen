@@ -35,7 +35,7 @@ La programacion la hacemos a traves de Makecode y ella hemos implementado un tip
 
 ## `Modulo 4: Ampliación` 
 
--[Video 4: Control por radio y mando IR](control/control.md)
+- [Video 4: Control por radio y mando IR](control/control.md)
 
 
 
