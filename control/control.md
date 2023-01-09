@@ -20,5 +20,10 @@ Aqui mostraremos como a traves de otra placa Microbit podemos enviar señales a 
 
 ## Ejemplo 2: Control del robot a través de un mando. 
 
+Aqui mostraremos que con un mando podemos enviarle señales a Kylian y es capaz de repondernos 
 
 
+![image](https://user-images.githubusercontent.com/114906861/211267973-9a966956-e46e-4c37-ba1c-d8e5f97063ce.PNG)
+
+[Archivo]
+[Youtube]
