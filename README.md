@@ -30,10 +30,16 @@ La programacion la hacemos a traves de Makecode y ella hemos implementado un tip
  
  En este modulo veremos como implementando bucles y variables Kylian es capaz de moverse siguiendo dichas ordenes sencillas.
  
-- [Video 1: Variables y bucles de control](variables/variables.md)
+- [Video 3: Variables y bucles de control](variables/variables.md)
 
 
 ## `Modulo 4: Ampliación` 
+
+-[Video 4: Control por radio y mando IR](control/control.md)
+
+
+
+
 
 ## `Proyecto`
 
