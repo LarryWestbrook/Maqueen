@@ -16,7 +16,7 @@ Parece walle se montan primero las ruedas. Luego se añade la placa, la bateria 
 
 Aqui os dejamos un video de como se monta el Maqueen. 
  
-- [Youtube](https://www.youtube.com/watch?v=_sAHwsOEKsg)
+- [Youtube]()
 
 ## `Módulo 2: Programación básica 1`
 
