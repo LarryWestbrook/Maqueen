@@ -1,6 +1,6 @@
 ## Ejemplo 1: Control del robot utilizando otro Microbit.
 
-Aqui mostraremos como a traves de otra placa Microbit podemos enviar señales a Kylian y este responde a traves de la configuracion que le hemos puesto en este caso nos mostrará las luces Leds.
+Aqui mostraremos como a traves de otra placa Microbit podemos enviar señales a Kylian y este responde a traves de la configuracion que le hemos puesto, en este caso nos mostrará las luces Leds.
 
 - En esta imagen mostramos la programacion de la placa Microbit por la que controlamos a Kylian.
 
