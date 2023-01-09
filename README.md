@@ -35,7 +35,7 @@ La programacion la hacemos a traves de Makecode y ella hemos implementado un tip
 
 ## `Modulo 4: Ampliación` 
 
- Este modulo se basa en como a traves de otra microbit y un mando Kylian es capaz de devolvernos información.
+ Este modulo se basa en como a traves de otra Microbit y un mando Kylian es capaz de devolvernos información.
 
 - [Video 4: Control por radio y mando IR](control/control.md)
 
