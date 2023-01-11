@@ -11,6 +11,7 @@ El Maqueen es un robot de programación gráfica diseñado específicamente para
 
 ![image](https://user-images.githubusercontent.com/114906861/207549887-94778db5-a944-472f-a246-a8ba89084a9c.jpeg)
 
+
 ## `Módulo 1: Descripción y montaje`
 
 Parece walle se montan primero las ruedas. Luego se añade la placa, la bateria y por ultimo el sensor despues se comprueba que funciona
@@ -19,6 +20,7 @@ Aqui os dejamos un video de como se monta el Maqueen.
  
 - [Youtube](https://youtube.com/shorts/zPs_96zYY-Q)
 
+
 ## `Módulo 2: Programación básica 1`
 
 La programacion la hacemos a traves de Makecode y ella hemos implementado un tipo de musica y movimiento de las ruedas.
@@ -26,6 +28,7 @@ La programacion la hacemos a traves de Makecode y ella hemos implementado un tip
 - [Video 1: Botones, Musica, led integrados](ejemplo1/ejemplo1.md)
 
 - [Video 2: Los motores y leds](extension/extension.md)
+
 
 ## `Modulo 3: Programación básica 2`
  
@@ -40,7 +43,11 @@ La programacion la hacemos a traves de Makecode y ella hemos implementado un tip
 
 - [Video 4: Control por radio y mando IR](control/control.md)
 
+- [Video 5: Sensor luz y sonido](luz/luz.md)
 
+- [video 6: Sensor Ultrasonido](ultrasonido/ultrasonido.md)
+
+- [Video 7: Sensor sigue lineas](lineas/lineas.md)
 
 ## `Proyecto`
 
