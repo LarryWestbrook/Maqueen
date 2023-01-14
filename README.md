@@ -54,7 +54,7 @@ La programacion la hacemos a traves de Makecode y ella hemos implementado un tip
 
 ## `Referencias` 
 
-[wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Portada)
+[Wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Portada)
 
 ## `Autores`
 
