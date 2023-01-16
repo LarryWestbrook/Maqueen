@@ -6,7 +6,7 @@ Aqui mostraremos como a traves de otra placa Microbit podemos enviar señales a 
 
 ![image1](https://user-images.githubusercontent.com/114906861/211264575-d43b89cb-b169-41eb-a840-bdca718828c7.PNG)
 
-- En esta imagen mosrtamos la programacion de Kylian.
+- En esta imagen mostramos la programacion de Kylian.
 
 ![image2](https://user-images.githubusercontent.com/114906861/211264589-ffe2ea22-2c43-4806-ae37-17b1bf5c301c.PNG)
 
