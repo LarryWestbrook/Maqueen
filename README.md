@@ -51,6 +51,8 @@ La programacion la hacemos a traves de Makecode y ella hemos implementado un tip
 
 ## `Proyecto`
 
+- [Proyecto](proyecto/proyecto.md)
+
 
 ## `Referencias` 
 
